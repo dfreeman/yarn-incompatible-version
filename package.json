@@ -1,0 +1,9 @@
+{
+  "name": "yarn-bug",
+  "private": true,
+  "dependencies": {
+    "dependency-one": "file:./dependency-one",
+    "dependency-two": "file:./dependency-two",
+    "git-repo-info": "^1.4.1"
+  }
+}

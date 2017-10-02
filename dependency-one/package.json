@@ -1,0 +1,8 @@
+{
+  "name": "dependency",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "git-repo-info": "^1.1.2"
+  }
+}
